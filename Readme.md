@@ -77,9 +77,16 @@ flowchart LR
   * **Playstore**
 	  * **[ESP BLE Provisioning](https://play.google.com/store/apps/details?id=com.espressif.provble&pli=1)** (โดย Espressif) - สำหรับทำ Provisioning ผ่าน BLE   
 	  * **[ESP SoftAP Provisioning](https://play.google.com/store/apps/details?id=com.espressif.provsoftap)** (โดย Espressif) - สำหรับทำ Provisioning ผ่าน SoftAP
+     
+	**Github repo** [esp-idf-provisioning-android](https://github.com/espressif/esp-idf-provisioning-android  ) 
+
 * **Appstore**
 	- **[ESP BLE Provisioning](https://apps.apple.com/in/app/esp-ble-provisioning/id1473590141)**  (โดย Espressif) - สำหรับทำ Provisioning ผ่าน BLE   
 	- **[ESP SoftAP Provisioning](https://apps.apple.com/in/app/esp-softap-provisioning/id1474040630)** (โดย Espressif) - สำหรับทำ Provisioning ผ่าน SoftAP
+	
+	**Github repo**  [esp-idf-provisioning-ios](https://github.com/espressif/esp-idf-provisioning-ios)
+
+
  * **nRF Connect for Mobile** (โดย Nordic Semiconductor) - สำหรับสแกนและตรวจสอบ BLE GATT Services & Characteristics
 
 
